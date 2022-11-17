@@ -8,13 +8,13 @@
 
 ## Install
 
-Open Tampermonkey **Utilities**:
+Open Tampermonkey **Utilities** in your Chrome browser:
 
 ```
 chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils
 ```
 
-Go to **Import from URL**, copy and paste the link below, and click **Install**:
+Go to **Import from URL**, copy and paste the link to the [raw file](example.js) below, and click **Install**:
 
 ```
 https://raw.githubusercontent.com/remarkablemark/tampermonkey-example/master/example.js
